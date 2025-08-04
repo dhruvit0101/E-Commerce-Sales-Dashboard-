@@ -6,7 +6,8 @@ The owner of Madhav Store wants a centralized dashboard to track and analyze the
 
 ## 📊 Dataset Information
 
-- **Source**: [Link will be added]
+- **Source**: https://drive.google.com/file/d/16hFCFB9gHuRrM0hfkSFVPnqL27l2H40p/view?usp=drive_link ,
+             https://drive.google.com/file/d/1_jXpOs3fODRluEWJOgiEV2N0ONuyvtr5/view?usp=drive_link
 - **Files Used**: 
   - `Order Details` table: Contains `Order ID`, `Amount`, `Profit`, `Quantity`, `Category`, `Sub-Category`, `Payment Mode`
   - `Order Table`: Contains `Order ID`, `Order Date`, `Customer Name`, `State`, `City`
@@ -51,8 +52,8 @@ The owner of Madhav Store wants a centralized dashboard to track and analyze the
 
 ## 📂 Project Structure
 
-- `dataset/` – Contains raw Excel/CSV files
-- `images/` – Screenshots of the dashboard
+- `dataset/` – Contains raw CSV files
+- `E-Commerce-Sales-Dashboard /` – Screenshots of the dashboard
 - `MadhavStoreDashboard.pbix` – Power BI file
 
 ## 📌 Conclusion
